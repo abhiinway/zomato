@@ -214,4 +214,10 @@
    #zoma{
         height: 20px;
     }
+    #select{
+        width: 110%;
+    }
+    #login a{
+        font-size: 15px;
+    }
 }
